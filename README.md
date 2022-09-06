@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+https://www.youtube.com/watch?v=cWk5EKVxrgo&t=28s&ab_channel=ProgrammingWithYash
 
 ## Available Scripts
 
@@ -19,8 +19,10 @@ Open [https://tailwindcss.com/docs/guides/create-react-app](https://tailwindcss.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Agora instalaremos "Unicons".\
+See the section about [https://iconscout.com/unicons](https://iconscout.com/unicons) for more information.
+https://github.com/IconScout/react-unicons
+npm install --save @iconscout/react-unicons
 
 ### `npm run build`
 
