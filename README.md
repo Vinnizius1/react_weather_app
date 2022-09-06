@@ -13,6 +13,9 @@ Open [https://tailwindcss.com/docs/guides/create-react-app](https://tailwindcss.
 
 1- npm install -D tailwindcss postcss autoprefixer\
 2- npx tailwindcss init -p
+3- content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
 
 ### `npm test`
 
