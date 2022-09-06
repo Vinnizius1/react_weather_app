@@ -8,11 +8,11 @@
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Instalação do Tailwind. Fizemos a busca por: "tailwind create react app".\
+Open [https://tailwindcss.com/docs/guides/create-react-app](https://tailwindcss.com/docs/guides/create-react-app) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1- npm install -D tailwindcss postcss autoprefixer\
+2- npx tailwindcss init -p
 
 ### `npm test`
 
